@@ -1,55 +1,120 @@
 # Hello, I'm Aimen Cherif Mouaki
-<a href="https://linkedin.com/in/aimencherifmouaki"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an IT Support Specialist and cybersecurity enthusiast based in Biskra, Algeria. With a background in Computer Science and a focus on Databases, I specialize in hardware/software troubleshooting, remote technical support, and security monitoring[cite: 1].
+IT Support Specialist | Remote Technical Support | Cybersecurity & Data Support  
+Biskra, Algeria | Remote-ready  
 
-## Objective
-To leverage my technical expertise in IT support and recent Google certifications to transition into a Security Operations Center (SOC) role. I am dedicated to maintaining data integrity and securing digital assets through proactive monitoring and incident response[cite: 1].
+📧 aimenmouaki53@gmail.com  
+🔗 https://linkedin.com/in/aimencherifmouaki  
+
+---
+
+## About Me
+
+I’m an IT Support Specialist with hands-on experience in troubleshooting hardware and software issues, maintaining systems, and supporting users both on-site and remotely.
+
+My background combines technical support, data handling, and cybersecurity fundamentals. I’ve worked with real users, real devices, and real problems—resolving issues related to system performance, connectivity, and data accuracy.
+
+I recently completed the Google IT Support and Google Cybersecurity Certificates, where I developed skills in Linux, SQL, security monitoring, and incident response basics.
+
+---
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Alert Analysis & Log Review              | [SIEM Alert Analysis Lab](#) |
-| Network Troubleshooting (DNS/DHCP/IP)          | [Home Network Lab](#)        |
-| SQL Data Cleaning & Reporting                 | [SQL Reporting Project](#)   |
-| Remote Support (AnyDesk/RDP/TeamViewer)       | [Support Ticket Simulation](#)|
-| Incident Response Fundamentals                | [SIEM Alert Analysis Lab](#) |
+**IT Support**
+- Hardware & software troubleshooting  
+- PC and phone maintenance  
+- System installation & configuration  
+- End-user support  
+- Remote technical support  
 
-## Tools
+**Networking**
+- LAN/WAN basics  
+- TCP/IP, DNS, DHCP  
+- Wi-Fi troubleshooting  
+- Router & firewall basics  
 
-### Technical Support & Remote
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_365_Admin-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AnyDesk-EF4437?&style=for-the-badge&logo=anydesk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TeamViewer-008CC9?&style=for-the-badge&logo=teamviewer&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+**Tools**
+- AnyDesk, TeamViewer, Remote Desktop (RDP)  
+- Microsoft 365 Admin, Google Workspace  
+- Antivirus tools  
 
-### Networking & Security
-<div>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Firewall_Admin-E02424?&style=for-the-badge&logo=fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SIEM_Fundamentals-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-</div>
+**Data & Databases**
+- SQL basics  
+- Data cleaning & validation  
+- Database updates  
+- Reporting (Excel, Power BI)  
 
-### Data & Development
-<div>
-    <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Power_BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
+**Cybersecurity**
+- SIEM fundamentals  
+- IDS basics  
+- Log analysis  
+- Incident response basics  
+- Risk & vulnerability awareness  
+
+---
+
+## Experience
+
+### Freelance IT Support & Device Maintenance (2024 – Present)
+- Provide technical support for individuals and small clients  
+- Diagnose and fix hardware, software, and performance issues  
+- Repair and prepare used computers for resale  
+- Guide users remotely and explain solutions clearly  
+
+### Junior Data & Operations Analyst (2025)
+- Verified and cleaned production data  
+- Supported daily operations and reporting  
+- Identified inefficiencies in workflows  
+
+### Patient Care & Hospitality Officer (2021 – 2024)
+- Managed and verified sensitive data with accuracy  
+- Reported system issues and supported internal systems  
+- Helped reduce recurring data errors  
+
+### Customer Service Representative (2020 – 2021)
+- Handled POS systems and inventory data  
+- Maintained accuracy in sales and records  
+
+### Technical Support – Internet & Games Lounge (2016 – 2020)
+- Provided first-line IT support  
+- Installed and maintained systems and networks  
+- Resolved connectivity and performance issues  
+
+---
+
+## Projects (In Progress / Portfolio Direction)
+
+These projects reflect practical scenarios based on real-world tasks:
+
+- IT Support Ticket Simulation  
+- Home Network Troubleshooting Lab  
+- SIEM Alert Analysis Lab  
+- SQL Data Cleaning & Reporting  
+
+---
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Data_Analysis_UNICEF-00B2FF?&style=for-the-badge&logo=unicef&logoColor=white" />
-</div>
 
-## Projects
-- **Remote IT Support Ticket Simulation**: Documenting troubleshooting steps and SLA resolution[cite: 1].
-- **Home Network Troubleshooting Lab**: Configuring routers, DNS, and DHCP environments[cite: 1].
-- **SIEM Alert Analysis Lab**: Log review, alert triage, and security recommendations[cite: 1].
-- **SQL Data Cleaning**: Using SQL queries to clean and summarize production data[cite: 1].
+- Google IT Support Certificate (2026)  
+- Google Cybersecurity Certificate (2026)  
+- Data Analysis – UNICEF Agora Platform (2025)  
+
+---
+
+## Languages
+
+- Arabic: Native  
+- English: Advanced (C1)  
+- French: Intermediate  
+
+---
+
+## Goals
+
+I’m currently focused on building hands-on projects in:
+- Remote IT Support  
+- Cybersecurity (SOC fundamentals, monitoring, incident response)  
+- Practical troubleshooting scenarios  
+
+Open to remote opportunities and continuous learning.
 -->
