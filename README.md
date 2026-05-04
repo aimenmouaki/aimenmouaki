@@ -14,8 +14,7 @@ I’m an IT Support Specialist with hands-on experience in troubleshooting hardw
 
 My background combines technical support, data handling, and cybersecurity fundamentals. I’ve worked with real users, real devices, and real problems—resolving issues related to system performance, connectivity, and data accuracy.
 
-I recently completed the Google IT Support and Google Cybersecurity Certificates, where I developed skills in Linux, SQL, security monitoring, and incident response basics.
-
+I hold the Google IT Support and Google Cybersecurity Certificates, with training in Linux, SQL, security monitoring, and incident response basics.
 ---
 
 ## Skills
