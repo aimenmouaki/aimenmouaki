@@ -3,9 +3,7 @@
 IT Support Specialist | Remote Technical Support | Cybersecurity & Data Support  
 Biskra, Algeria | Remote-ready  
   
-<a href="https://mail.google.com/mail/?view=cm&to=aimenmouaki53@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
 </a> <a href="https://linkedin.com/in/aimencherifmouaki"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 ---
