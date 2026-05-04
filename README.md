@@ -4,7 +4,7 @@ IT Support Specialist | Remote Technical Support | Cybersecurity & Data Support
 Biskra, Algeria | Remote-ready  
 
 📧 aimenmouaki53@gmail.com  
-🔗 https://linkedin.com/in/aimencherifmouaki  
+<a href="https://linkedin.com/in/aimencherifmouaki"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 ---
 
