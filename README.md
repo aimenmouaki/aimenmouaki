@@ -115,4 +115,15 @@ I’m currently focused on building hands-on projects in:
 - Practical troubleshooting scenarios  
 
 Open to remote opportunities and continuous learning.
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="YourName | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="YourName | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[facebook]: https://www.facebook.com/aimenmouaki07
+[linkedin]: https://www.linkedin.com/in/aimencherifmouaki/
+[instagram]: https://www.instagram.com/aimenmouaki
+
+
