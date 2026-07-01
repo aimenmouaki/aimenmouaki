@@ -2,7 +2,7 @@
 
 IT Support Specialist | Remote Technical Support | Cybersecurity
 
-🌍 Based in Biskra, Algeria — Remote & On-Site ready
+
 📧 aimenmouaki53@gmail.com
 🌐 Portfolio: https://aimenmouaki.github.io
 
